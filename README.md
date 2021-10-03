@@ -1,2 +1,3 @@
 # NewRepoFirst
-test of github
+hello!this is my first github repo.
+
